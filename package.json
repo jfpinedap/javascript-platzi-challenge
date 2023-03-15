@@ -1,0 +1,23 @@
+{
+  "name": "javascript-platzi-challenge",
+  "version": "1.0.0",
+  "description": "Here you can find the challenges and solutions for the Platzi Javascript challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfpinedap/javascript-platzi-challenge.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Juan Francisco Pineda jfpinedap https://github.com/jfpinedap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfpinedap/javascript-platzi-challenge/issues"
+  },
+  "homepage": "https://github.com/jfpinedap/javascript-platzi-challenge#readme"
+}
