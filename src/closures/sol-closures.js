@@ -16,5 +16,10 @@ function createCalculator() {
     divide,
     clear,
     getTotal,
-  }
+  };
 }
+
+const calculator = createCalculator();
+calculator.add(10);
+let res = calculator.subtract(-10);
+console.log(res);
